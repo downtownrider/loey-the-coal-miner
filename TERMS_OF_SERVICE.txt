@@ -1,0 +1,62 @@
+📄 TERMS OF SERVICE — Loey the Coal Miner
+
+Last Updated: October 2025
+
+Welcome to Loey the Coal Miner, a Discord bot created to enhance your experience in The Coal Mines server with fun games, leveling, moderation tools, and more.
+By using this bot, you agree to the following terms:
+
+1. Usage Agreement
+
+By inviting or using Loey the Coal Miner, you agree to comply with Discord’s Terms of Service
+ and Community Guidelines
+.
+
+2. User Data
+
+Loey the Coal Miner may temporarily store limited data such as:
+
+User IDs, XP, and levels
+
+Warning counts and moderation history
+
+Custom welcome messages
+
+This data is only used for in-bot features and is not shared with third parties.
+
+You may request deletion of your stored data at any time by contacting the bot owner.
+
+3. Prohibited Activities
+
+You agree not to:
+
+Abuse, spam, or exploit the bot
+
+Attempt to access or modify its code or data
+
+Use the bot to violate Discord’s or any applicable laws
+
+4. Availability
+
+The bot may experience downtime for maintenance, updates, or hosting issues.
+No guarantee of 24/7 uptime is made, especially on free hosting environments.
+
+5. Liability
+
+The creator of Loey the Coal Miner is not responsible for:
+
+Loss of data or functionality
+
+Server moderation outcomes (e.g., bans, timeouts, etc.)
+
+Any damage or misuse caused by users of the bot
+
+Use of the bot is at your own risk.
+
+6. Termination
+
+The bot owner reserves the right to restrict or remove access to Loey the Coal Miner from any server or user at any time, without prior notice.
+
+7. Contact
+
+For support, feature requests, or data removal:
+Please contact the bot developer or server administrator directly through Discord.
