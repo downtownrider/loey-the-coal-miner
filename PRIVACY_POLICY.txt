@@ -1,66 +1,72 @@
 🔒 PRIVACY POLICY — Loey the Coal Miner
 
-Last Updated: October 2025
+Last Updated: November 2025
 
-Loey the Coal Miner (“the Bot”) respects your privacy and is committed to protecting your data. This document explains how the Bot collects, uses, and stores information.
+Loey the Coal Miner (“the Bot”) values your privacy and is committed to protecting your information. This policy explains what data the Bot collects, how it is used, and how it is stored.
 
 1. Information We Collect
 
-The Bot may collect and store limited, non-sensitive data to provide its core features, such as:
+The Bot may collect and store limited, non-sensitive information required to operate core features, including:
 
-User IDs — to identify Discord members uniquely
+User IDs — used to uniquely identify Discord members
 
-XP / Levels — to maintain the leveling system
+XP / Level Data — required for the leveling system
 
-Warnings & Moderation Records — for moderation features
+Warnings & Moderation Records — for moderation tools
 
-Custom Welcome Messages — to send personalized greetings
+Custom Welcome Messages & Settings — to personalize server interactions
 
-The Bot does not collect or store messages, passwords, or personal information beyond what is necessary for its functions.
+The Bot does NOT collect or store chat messages, passwords, emails, or any personal details beyond what is necessary for functionality.
 
-2. How Data is Used
+2. How Your Data Is Used
 
-Your data is used exclusively to:
+Your information is used solely to:
 
-Track levels and XP
+Maintain XP, levels, and progression
 
 Execute moderation commands
 
-Deliver custom welcome messages
+Provide custom welcome messages
 
-Enable games and interaction features
+Enable games, events, and interactive features
 
-No user data is ever sold, shared, or used for advertising.
+Your data is never sold, shared, traded, or used for any form of advertising or tracking.
 
 3. Data Storage & Security
 
-Data is stored locally or through your hosting environment (e.g., Replit or similar).
+Data is stored locally or within your hosting environment (e.g., Replit, Node Hosting, VPS, or equivalent).
 
-Reasonable measures are taken to keep this data secure.
+Reasonable technical measures are used to keep data secure.
 
-However, as with any online service, complete security cannot be guaranteed.
+However, no system can be guaranteed fully secure against every possible risk.
 
-4. Data Retention
+4. Data Retention & Removal
 
-User data is stored as long as it is needed for the bot’s operation.
-You may request removal of your data at any time by contacting the bot owner.
+User data is retained only while needed for the Bot’s operation.
 
-When data is deleted, all related XP, warnings, and configuration settings will be permanently removed.
+You may request deletion of your data at any time by contacting the bot owner.
+
+When data is deleted, all XP, warnings, settings, and related records are permanently removed and cannot be restored.
 
 5. Third-Party Services
 
-The Bot may use external APIs (e.g., meme API) to fetch public content.
-These APIs may have their own privacy policies — the Bot does not control their data handling.
+The Bot may access external APIs (e.g., meme or image APIs) to provide public content.
+These services may have their own privacy policies, and the Bot does not control how they handle any data.
+
+The Bot does not send user data to these services — only fetches content.
 
 6. Children’s Privacy
 
-The Bot is intended for Discord users aged 13 and above, in compliance with Discord’s Terms of Service.
-If you are under 13, you may not use the Bot.
+In accordance with Discord’s Terms of Service:
+
+The Bot is intended for users 13 years of age or older.
+
+Users under 13 are not permitted to use the Bot.
 
 7. Changes to This Policy
 
-This policy may be updated periodically. Continued use of the Bot after any changes implies your acceptance of the revised policy.
+This Privacy Policy may be updated periodically. Continued use of the Bot after changes means you accept the updated terms.
 
 8. Contact
 
-If you have any questions or wish to request data deletion, contact the bot owner or server administrator directly on Discord.
+For questions, concerns, or requests (including data deletion), please contact the bot owner or a designated server administrator directly on Discord.
